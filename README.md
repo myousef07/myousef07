@@ -5,6 +5,14 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 ---
 
 ### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Flutter"/>
+  <img src="https://shields.io" alt="Dart"/>
+  <img src="https://shields.io" alt="Firebase"/>
+  <img src="https://shields.io" alt="Android"/>
+  <img src="https://shields.io" alt="iOS"/>
+  <img src="https://shields.io" alt="Git"/>
+</p>
 
 - 📱 **Framework:** Flutter (Android, iOS, Desktop)
 - 🎯 **Language:** Dart
