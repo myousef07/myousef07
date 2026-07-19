@@ -11,22 +11,57 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 
 ### 💻 Tech Stack:
 
+
 ---
 
 ### 💻 Tech Stack & Tools:
 
-<p align="left">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=dart&size=96" alt="dart" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=96" alt="flutter" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=android&size=96&color=%233b82f6" alt="android" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96" alt="apple" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=96" alt="windows" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=96" alt="supabase" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=96" alt="sqlite" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=130" alt="figma" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=trello&size=96" alt="trello" width="45" height="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=dart&size=96" alt="dart" width="40" height="40"/>
+      <br><sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=96" alt="flutter" width="40" height="40"/>
+      <br><sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=android&size=96&color=%233b82f6" alt="android" width="40" height="40"/>
+      <br><sub><b>Android</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96" alt="apple" width="40" height="40"/>
+      <br><sub><b>iOS</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=96" alt="windows" width="40" height="40"/>
+      <br><sub><b>Windows</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=96" alt="supabase" width="40" height="40"/>
+      <br><sub><b>Supabase</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=96" alt="sqlite" width="40" height="40"/>
+      <br><sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" width="40" height="40"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=130" alt="figma" width="40" height="40"/>
+      <br><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=trello&size=96" alt="trello" width="40" height="40"/>
+      <br><sub><b>Trello</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
