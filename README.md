@@ -19,6 +19,9 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
   <img src="https://shields.io" alt="Git"/>
 </p>
 ---
+
+<img src="https://shields.io" alt="Dart"/> <img src="https://shields.io" alt="Flutter"/> <img src="https://shields.io" alt="Firebase"/> <img src="https://shields.io" alt="Android"/> <img src="https://shields.io" alt="iOS"/> <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="GitHub"/> <img src="https://shields.io" alt="SQLite"/> <img src="https://shields.io" alt="PHP"/> <img src="https://shields.io" alt="Figma"/> <img src="https://shields.io" alt="Trello"/> <img src="https://shields.io" alt="Notion"/>
+
 ### 🛠️ Tech Stack & Tools
 
 | Technology | Domain | Expertise Level |
