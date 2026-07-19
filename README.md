@@ -5,11 +5,6 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 ---
 
 ### 🌐 Socials:
-<a href="www.linkedin.com/in/mahmoud-yousef-166b9b3a2" target="_blank"><<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" />" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/profile.php?id=61555008547596" target="_blank"><img src="https://shields.io" alt="Facebook"></a>
-<a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
-
----
 <a href="www.linkedin.com/in/mahmoud-yousef-166b9b3a2" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" width="45" height="45"/></a> &nbsp; 
 <a href="https://www.facebook.com/profile.php?id=61555008547596" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96" alt="facebook" width="45" height="45"/></a> &nbsp; 
 <a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=96" alt="instagram" width="45" height="45"/></a>---
