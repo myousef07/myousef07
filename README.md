@@ -10,17 +10,25 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
 
 ---
-<p align="left">
-  <img src="https://shields.io" alt="Flutter"/>
-  <img src="https://shields.io" alt="Dart"/>
-  <img src="https://shields.io" alt="Firebase"/>
-  <img src="https://shields.io" alt="Android"/>
-  <img src="https://shields.io" alt="iOS"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
 ---
 
-<img src="https://shields.io" alt="Dart"/> <img src="https://shields.io" alt="Flutter"/> <img src="https://shields.io" alt="Firebase"/> <img src="https://shields.io" alt="Android"/> <img src="https://shields.io" alt="iOS"/> <img src="https://shields.io" alt="Git"/> <img src="https://shields.io" alt="GitHub"/> <img src="https://shields.io" alt="SQLite"/> <img src="https://shields.io" alt="PHP"/> <img src="https://shields.io" alt="Figma"/> <img src="https://shields.io" alt="Trello"/> <img src="https://shields.io" alt="Notion"/>
+### 💻 Tech Stack:
+
+<p align="left">
+  <img src="https://githubusercontent.com" alt="Flutter" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Dart" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Firebase" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Android" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="iOS" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="GitHub" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="SQLite" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="PHP" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Figma" width="45" height="45"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="Trello" width="45" height="45"/>
+</p>
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
