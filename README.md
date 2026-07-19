@@ -5,28 +5,22 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Flutter"/>
-  <img src="https://shields.io" alt="Dart"/>
-  <img src="https://shields.io" alt="Firebase"/>
-  <img src="https://shields.io" alt="Android"/>
-  <img src="https://shields.io" alt="iOS"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
 
-- 📱 **Framework:** Flutter (Android, iOS, Desktop)
-- 🎯 **Language:** Dart
-- 🔥 **Backend & BaaS:** Firebase (FCM, Auth, Firestore), RESTful APIs
-- 📦 **State Management:** BLoC, Cubit, Provider
-- 💾 **Local Storage:** Hive, SQLite, Shared Preferences
-- 🛠️ **Tools & Version Control:** Git, GitHub, Android Studio, Xcode
+| Technology | Domain | Expertise Level |
+| :--- | :--- | :--- |
+| 📱 **Flutter** | Cross-Platform Framework | Advanced |
+| 🎯 **Dart** | Programming Language | Advanced |
+| 🔥 **Firebase** | Cloud Services & Auth | Intermediate |
+| 🤖 **Android (Java/Kotlin)** | Native Integration | Intermediate |
+| 🍏 **iOS (Swift/Obj-C)** | Native Integration | Intermediate |
+| 🛠️ **Git & GitHub** | Version Control | Advanced |
 
 ---
 
 ### 🧠 Expertise & Architecture
 
 - 🏗️ **Architectures:** Clean Architecture, SOLID Principles, Clean Code.
-- 📍 **Advanced Features:** Real-time Map Tracking (Google Maps API), Reverse Geocoding, Secure Local Payment Gateways (Mada, Apple Pay).
+- 📍 **Advanced Features:** Real-time Map Tracking (Google Maps API), Reverse Geocoding, Secure Local Payment Gateways (Mada, Apple Pay) [0.1.1، 0.1.2].
 - ⚙️ **Integrations:** Smooth JSON Parsing, Integration with Laravel/PHP Backends.
 
 ---
