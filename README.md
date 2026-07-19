@@ -4,6 +4,13 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 
 ---
 
+### 🌐 Socials:
+<a href="www.linkedin.com/in/mahmoud-yousef-166b9b3a2" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/profile.php?id=61555008547596" target="_blank"><img src="https://shields.io" alt="Facebook"></a>
+<a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Technology | Domain | Expertise Level |
