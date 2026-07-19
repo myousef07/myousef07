@@ -6,21 +6,20 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://shields.io" alt="Flutter"/>
-  <img src="https://shields.io" alt="Dart"/>
-  <img src="https://shields.io" alt="Firebase"/>
-  <img src="https://shields.io" alt="Android"/>
-  <img src="https://shields.io" alt="iOS"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+- 📱 **Framework:** Flutter (Android, iOS, Desktop)
+- 🎯 **Language:** Dart
+- 🔥 **Backend & BaaS:** Firebase (FCM, Auth, Firestore), RESTful APIs
+- 📦 **State Management:** BLoC, Cubit, Provider
+- 💾 **Local Storage:** Hive, SQLite, Shared Preferences
+- 🛠️ **Tools & Version Control:** Git, GitHub, Android Studio, Xcode
+
+---
 
 ### 🧠 Expertise & Architecture
-- **State Management:** BLoC, Cubit, Provider
-- **Local Storage:** Hive, SQLite, Shared Preferences
-- **APIs & Backend:** RESTful APIs, JSON Parsing, Integration with Laravel/PHP Backends
-- **Advanced Features:** Real-time Map Tracking (Google Maps API), Reverse Geocoding, Secure Local Payment Gateways (Mada, Apple Pay), Push Notifications (FCM).
-- **Principles:** Clean Architecture, SOLID Principles, Clean Code.
+
+- 🏗️ **Architectures:** Clean Architecture, SOLID Principles, Clean Code.
+- 📍 **Advanced Features:** Real-time Map Tracking (Google Maps API), Reverse Geocoding, Secure Local Payment Gateways (Mada, Apple Pay).
+- ⚙️ **Integrations:** Smooth JSON Parsing, Integration with Laravel/PHP Backends.
 
 ---
 
