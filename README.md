@@ -10,6 +10,7 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
 
 ---
+<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" width="45" height="45"/>
 ---
 
 ### 💻 Tech Stack:
