@@ -6,34 +6,14 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="flutter" width="40" height="40"/>
-      <br>Flutter
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="dart" width="40" height="40"/>
-      <br>Dart
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="firebase" width="40" height="40"/>
-      <br>Firebase
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
-      <br>Git & GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="android" width="40" height="40"/>
-      <br>Android
-    </td>
-     <td align="center" width="120">
-      <img src="https://githubusercontent.com" alt="ios" width="40" height="40"/>
-      <br>iOS
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://shields.io" alt="Flutter"/>
+  <img src="https://shields.io" alt="Dart"/>
+  <img src="https://shields.io" alt="Firebase"/>
+  <img src="https://shields.io" alt="Android"/>
+  <img src="https://shields.io" alt="iOS"/>
+  <img src="https://shields.io" alt="Git"/>
+</p>
 
 ### 🧠 Expertise & Architecture
 - **State Management:** BLoC, Cubit, Provider
@@ -41,18 +21,6 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 - **APIs & Backend:** RESTful APIs, JSON Parsing, Integration with Laravel/PHP Backends
 - **Advanced Features:** Real-time Map Tracking (Google Maps API), Reverse Geocoding, Secure Local Payment Gateways (Mada, Apple Pay), Push Notifications (FCM).
 - **Principles:** Clean Architecture, SOLID Principles, Clean Code.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Mahmoud's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
 
 ---
 
