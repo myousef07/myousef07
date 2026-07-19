@@ -10,7 +10,15 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
 
 ---
-
+<p align="left">
+  <img src="https://shields.io" alt="Flutter"/>
+  <img src="https://shields.io" alt="Dart"/>
+  <img src="https://shields.io" alt="Firebase"/>
+  <img src="https://shields.io" alt="Android"/>
+  <img src="https://shields.io" alt="iOS"/>
+  <img src="https://shields.io" alt="Git"/>
+</p>
+---
 ### 🛠️ Tech Stack & Tools
 
 | Technology | Domain | Expertise Level |
