@@ -11,18 +11,21 @@ A passionate **Senior Flutter Developer** focused on building high-performance, 
 
 ### 💻 Tech Stack:
 
+---
+
+### 💻 Tech Stack & Tools:
+
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Flutter" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Dart" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Firebase" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Android" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="iOS" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="GitHub" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="SQLite" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="PHP" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Figma" width="45" height="45"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Trello" width="45" height="45"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=dart&size=96" alt="dart" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=96" alt="flutter" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=android&size=96&color=%233b82f6" alt="android" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96" alt="apple" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=96" alt="windows" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=96" alt="supabase" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=sqlite&size=96" alt="sqlite" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=130" alt="figma" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=trello&size=96" alt="trello" width="45" height="45"/>
 </p>
 
 ---
